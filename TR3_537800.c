@@ -31,7 +31,7 @@ int main(){
             continue;
         }
 
-        x[z / 32] |= (1 << (z % 32));// 
+        x[z / 32] |= (1 << (z % 32));//Número é armazenado de acordo com sua posição no vetor.
     }
 
     printf("Números digitados: ");
