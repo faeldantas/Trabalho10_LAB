@@ -8,7 +8,7 @@ Primeiramente é necessário ter o `gcc` em sua máquina.
 
 ## Download
 ```
-$ git clone https://github.com/PedroHenriqueFerreira/Trabalho3Lab.git 
+$ git clone https://github.com/faeldantas/Trabalho10_LAB.git
 ```
 
 ## Compilação
