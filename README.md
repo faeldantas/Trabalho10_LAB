@@ -13,7 +13,7 @@ $ git clone https://github.com/PedroHenriqueFerreira/Trabalho3Lab.git
 
 ## Compilação
 ```
-$ gcc TR3_535770.c -o TR3_535770
+$ gcc TR3_537800.c -o main
 ```
 
 ## Execução
